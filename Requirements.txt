@@ -1,0 +1,13 @@
+MUST:
+- Accurately time how long it takes to drink.
+- Battery power and wireless connection.
+	- ESP32
+	- AA / lithium ion battery with on-board charging.
+- Solenoid functions properly with a start button.
+- Rigid watertight mechanical design with watertight electronic enclosure.
+	- Solenoid at top, water sensor at bottom, electronics on side of funnel.
+
+NICE TO HAVE:
+- Screen on the funnel.
+- An app
+- Tazer / other punishment system
